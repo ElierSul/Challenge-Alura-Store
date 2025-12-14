@@ -17,7 +17,7 @@ haciendo uso de la ciencia de datos para brindar al Sr. Juan la opción mas acor
 
 - `Sección 1`: se realiza la importación de los datos
 
-![Seccion_1](assets/importacion)
+![Seccion_1](assets/importacion.png)
 
 - `Sección 2`: Analisis de facturación: en esta sección se realiza la suma total de las ventas para cada tienda, de esta forma sabiendo cual es la tienda que tiene un mayor numero de ventas.
 
