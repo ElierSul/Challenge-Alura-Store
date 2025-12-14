@@ -15,33 +15,42 @@ haciendo uso de la ciencia de datos para brindar al Sr. Juan la opción mas acor
 
 # :hammer:Secciones del analisis
 
-- `Sección 1`: se realiza la importación de los datos
+- `Importación de Datos`: se realiza la importación de los datos
 
-![Seccion_1](assets/importacion.png)
+![Datos](assets/importacion.png)
 
-- `Sección 2`: Analisis de facturación: en esta sección se realiza la suma total de las ventas para cada tienda, de esta forma sabiendo cual es la tienda que tiene un mayor numero de ventas.
+- `Sección 1`: Analisis de facturación: en esta sección se realiza la suma total de las ventas para cada tienda, de esta forma sabiendo cual es la tienda que tiene un mayor numero de ventas.
 
-![Seccion_2](<img width="559" height="387" alt="image" src="https://github.com/user-attachments/assets/fc508f39-7e7e-47a3-b8e0-4008af3bd011" />
-)
+![Seccion_1](assets/precios.png)
 
-- `Sección 3`: Se realiza un analisis por categoria de productos, segun cada tienda
+- `Sección 2`: Se realiza un analisis por categoria de productos, segun cada tienda
 
-![Tienda_1](<img width="596" height="343" alt="image" src="https://github.com/user-attachments/assets/36c91852-a5be-4944-a101-27504d07378d" />
-) 
+![Tienda_1](assets/categoria_tienda_1.png) 
 
-![Tienda_2](<img width="590" height="346" alt="image" src="https://github.com/user-attachments/assets/d547aa38-7f17-40b9-a275-ca55e11035cb" />
-) 
+![Tienda_2](assets/categoria_tienda_2.png) 
 
-![Tienda_3](<img width="584" height="343" alt="image" src="https://github.com/user-attachments/assets/1bc782e4-0cec-425d-9aa6-36b812a95ecd" />
-) 
+![Tienda_3](assets/categoria_tienda_3.png) 
 
-![Tienda_4](<img width="593" height="347" alt="image" src="https://github.com/user-attachments/assets/c2b16001-a7a0-4c22-9ee2-21318f023f49" />
-)
+![Tienda_4](assets/categoria_tienda_4.png)
 
 
-- `Video funcionalidades`: este es un video de la funcionalidad del proyecto
+- `Sección 3`: Se realiza el analisis de la calificación promedio por cada tienda
 
-![Funcionalidad](assets/AmigoSecretoFuncionalidad.gif)
+![Calificación_promedio](assets/calificacion.png)
+
+- `Sección 4`: Se realiza un analisis de los productos mas y menos vendidos para cada tienda
+
+![Tienda_1](assets/mas_tienda_1.png)
+
+![Tienda_2](assets/mas_tienda_2.png)
+
+![Tienda_3](assets/mas_tienda_3.png)
+
+![Tienda_4](assets/mas_tienda_4.png)
+
+
+- `Sección 5`: Se realiza un analisis de los envios promedio por tienda
+![Envios](assets/envio.png)
 
 # Autor
 
