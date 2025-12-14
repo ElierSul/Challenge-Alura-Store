@@ -1,5 +1,4 @@
 # Challenge-Alura-Store
-![Portada del Proyecto](assets/portada_proyecto.gif)
 
 ![Status](https://img.shields.io/badge/status-finalizado-green)
 ![Lenguaje](https://img.shields.io/badge/python-green)
@@ -54,4 +53,4 @@ haciendo uso de la ciencia de datos para brindar al Sr. Juan la opción mas acor
 
 # Autor
 
-| [<img src="https://media.licdn.com/dms/image/v2/D4E03AQEaJfZtmqK4bg/profile-displayphoto-scale_200_200/B4EZjeltqKGcAY-/0/1756081092047?e=1758758400&v=beta&t=HslPduSuYAA59mhjemuxLrorHibXkMxXgS9HWlpUOdE" width=115><br><sub>Elier Antonio Sulbará Rodríguez</sub>](https://github.com/ElierSul) 
+| [<img src="assets/autor.jpg" width=115><br><sub>Elier Antonio Sulbará Rodríguez</sub>](https://github.com/ElierSul) 
