@@ -15,17 +15,30 @@ haciendo uso de la ciencia de datos para brindar al Sr. Juan la opción mas acor
 
 # :hammer:Secciones del analisis
 
-- `Funcionalidad 1`: se almacenan los nombres de los amigos en un Array 
+- `Sección 1`: se realiza la importación de los datos
 
-![Agregar amigos a la lista](assets/agregarAmigos.png)
+![Seccion_1](<img width="1112" height="292" alt="image" src="https://github.com/user-attachments/assets/437306d5-91b0-43fe-9843-1b7e4c4353a9" />
+)
 
-- `Funcionalidad 2`: De forma aleatoria se selecciona un amigo, el sistema esta configurado para nunca mostrar el mismo amigo dos veces en el mismo juego
+- `Sección 2`: Analisis de facturación: en esta sección se realiza la suma total de las ventas para cada tienda, de esta forma sabiendo cual es la tienda que tiene un mayor numero de ventas.
 
-![Sortear amigo](assets/seleccionar_amigo.png)
+![Seccion_2](<img width="559" height="387" alt="image" src="https://github.com/user-attachments/assets/fc508f39-7e7e-47a3-b8e0-4008af3bd011" />
+)
 
-- `Funcionalidad 3`: Una vez se han sorteado todos los amigos el juego se resetea, para agregar nuevos amigos a la lista y realizar un nuevo sorteo
+- `Sección 3`: Se realiza un analisis por categoria de productos, segun cada tienda
 
-![Reiniciar lista](assets/reiniciar_lista.png)
+![Tienda_1](<img width="596" height="343" alt="image" src="https://github.com/user-attachments/assets/36c91852-a5be-4944-a101-27504d07378d" />
+) 
+
+![Tienda_2](<img width="590" height="346" alt="image" src="https://github.com/user-attachments/assets/d547aa38-7f17-40b9-a275-ca55e11035cb" />
+) 
+
+![Tienda_3](<img width="584" height="343" alt="image" src="https://github.com/user-attachments/assets/1bc782e4-0cec-425d-9aa6-36b812a95ecd" />
+) 
+
+![Tienda_4](<img width="593" height="347" alt="image" src="https://github.com/user-attachments/assets/c2b16001-a7a0-4c22-9ee2-21318f023f49" />
+)
+
 
 - `Video funcionalidades`: este es un video de la funcionalidad del proyecto
 
